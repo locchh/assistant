@@ -1,0 +1,7 @@
+services:
+  langgraph-api:
+    restart: always
+  langgraph-redis:
+    restart: always
+  langgraph-postgres:
+    restart: always
