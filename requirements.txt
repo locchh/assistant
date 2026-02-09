@@ -1,0 +1,8 @@
+mypy
+ruff
+pytest
+python-dotenv
+langchain
+langchain-openai
+langgraph-sdk
+langgraph-cli
